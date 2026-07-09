@@ -77,9 +77,9 @@ chart → row-by-row instructions, with a yarn weight size calculator built in.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [KH-930e Machine Hack](IN PROGRESS) | Retrofit a 1980s knitting machine to knit images from a laptop via Arduino | Python · Arduino C++ · serial comms · bitmap processing |
+| [KH-930e Machine Hack](IN PROGRESS) | Retrofit a 1980s knitting machine to knit images from a laptop via Arduino | Python · Arduino C++ · serial comms · bitmap processing, IN PROGRESS |
 | [Knitting Pattern Generator] | Upload a photo → get a colorwork knitting chart + yarn size guide | Python · Streamlit · PIL · sklearn |
-| [Newsletter Ad CTR Analysis](AVAILABLE UPON REQUEST) | What actually makes people click on newsletter ads? | Python · pandas · BERT · matplotlib |
+| [Newsletter Ad CTR Analysis](AVAILABLE UPON REQUEST) | What actually makes people click on newsletter ads?, AVAILABLE UPON REQUEST | Python · pandas · BERT · matplotlib  |
 
 ---
 
