@@ -39,7 +39,7 @@ Right now I'm putting that same mix of structure and creativity into hacking a *
 | Project | What it does | Stack |
 |---|---|---|
 | [KH-930e Machine Hack](IN PROGRESS) | Retrofit a 1980s knitting machine to knit images from a laptop via Arduino | Python · Arduino C++ · serial comms · bitmap processing, IN PROGRESS |
-| [Newsletter Ad CTR Analysis] | What actually makes people click on newsletter ads? | Python · pandas · BERT · matplotlib |
+| [Newsletter Ad CTR Analysis](https://github.com/biiibbbaaa/Newsletter-Ad-Factor-Analysis-Morning-Brew) | What actually makes people click on newsletter ads? | Python · pandas · BERT · matplotlib |
 
 ---
 
