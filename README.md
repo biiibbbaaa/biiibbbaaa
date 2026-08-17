@@ -1,6 +1,6 @@
 # 🌀 Hi, I'm Biba!! 🌀
 
-Data & Analytics Intern @ Morning Brew · Incoming MS Analytics, C Track @ Georgia Tech · Knitter
+MS Analytics, C Track @ Georgia Tech · Former Data & Analytics Intern @ Morning Brew · Knitter & Creative
 
 ---
 
