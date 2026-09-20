@@ -46,7 +46,7 @@ Right now I'm putting that same mix of structure and creativity into hacking a *
 ## Background
 
 🎓 BA Psychology, minor in Data Science — University of Colorado Boulder
-📐 MS Analytics (incoming Fall 2026) — Georgia Tech
+📐 MS Analytics, Computational Track — Georgia Tech
 
 The psychology degree isn't incidental. Understanding *why* people behave the
 way they do, what they click, what they skip, what makes something feel worth
