@@ -8,9 +8,9 @@ MS Analytics, C Track @ Georgia Tech · Former Data & Analytics Intern @ Morning
 
 I'm a systematic thinker with a creative streak. I like breaking messy problems into structured, repeatable steps, then finding the angle that makes the solution interesting rather than just correct.
 
-That instinct actually started with knitting. A pattern like `Round 4: k5, * yo, k1, yo, k4, p4, k4, rep from * around` is an algorithm — `k5` collapses five identical actions into one symbol, `rep from *` is a loop. Reading patterns taught me to spot repetition and structure before I ever wrote a line of Python.
+That instinct actually started with knitting. A pattern like `Round 4: k5, * yo, k1, yo, k4, p4, k4, rep from * around` is an algorithm. `k5` collapses five identical actions into one symbol, `rep from *` is a loop. Reading patterns taught me to spot repetition and structure just like writing a line of Python.
 
-Right now I'm putting that same mix of structure and creativity into hacking a **Brother KH-930e** — a 1980s punch-card knitting machine — to accept image data from a laptop via Arduino, swapping the original punch-card input for real-time bitmap-to-needle-selection.
+Right now I'm putting that same mix of structure and creativity into hacking a **Brother KH-930e** — a 1980s electronic knitting machine — to accept image data from a laptop via Arduino, swapping the original computer to the new open source controller.
 
 ---
 
